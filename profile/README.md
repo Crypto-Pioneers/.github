@@ -13,9 +13,12 @@ As full-stack blockchain developers, we excel in designing, implementing, and de
 <div align="center">
   <img src="https://github.com/Crypto-Pioneers/.github/blob/main/profile/2.jpg" height="400px" alt="img"/>
 </div>
-<p align="center">
+<div align="center">
+  <img src="https://github.com/Crypto-Pioneers/.github/blob/main/profile/divider1.png" alt="divider"/>
+</div> 
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+</p> -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
