@@ -17,17 +17,17 @@ As full-stack blockchain developers, we excel in designing, implementing, and de
   <img src="https://github.com/Crypto-Pioneers/.github/blob/main/profile/divider1.png" alt="divider"/>
 </div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/iwaki-hiroto" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:noahsflood908@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:cryptopioneers0118@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/L3RRDf51v6I9" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  <a href="https://join.skype.com/invite/EjXaFDd0V7WN" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/iwakihiroto" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/ZcaATTds" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
+  <a href="https://discordapp.com/users/356900842927947776" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://iwakihiroto-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://main.dgslv5qhd2vhe.amplifyapp.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
