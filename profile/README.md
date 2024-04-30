@@ -27,7 +27,7 @@ As full-stack blockchain developers, we excel in designing, implementing, and de
   &nbsp;&nbsp;
   <a href="https://discordapp.com/users/356900842927947776" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://main.dgslv5qhd2vhe.amplifyapp.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://crypto-pioneers.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
