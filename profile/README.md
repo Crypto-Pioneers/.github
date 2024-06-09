@@ -17,8 +17,8 @@ As full-stack blockchain developers, we excel in designing, implementing, and de
   <img src="https://github.com/Crypto-Pioneers/.github/blob/main/profile/divider1.png" alt="divider"/>
 </div>
 <p align="center">
-  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
-  &nbsp;&nbsp;
+  <!-- <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  &nbsp;&nbsp; -->
   <a href="mailto:cryptopioneers0118@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/EjXaFDd0V7WN" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
